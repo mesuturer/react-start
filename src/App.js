@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       <img src="/logo192.png" alt="" />
       <img src={logo} alt="" />
+      <p>Deneme içerik mesajı</p>
     </div>
   );
 }
